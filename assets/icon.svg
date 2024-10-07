@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="focusGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g transform="translate(100, 100)">
+    <circle cx="0" cy="0" r="85" fill="#F3F4F6"/>
+    
+    <g filter="url(#glow)">
+      <circle cx="0" cy="0" r="45" fill="none" stroke="url(#focusGradient)" stroke-width="8"/>
+      <circle cx="0" cy="0" r="25" fill="none" stroke="url(#focusGradient)" stroke-width="6"/>
+      <circle cx="0" cy="0" r="8" fill="url(#focusGradient)"/>
+    </g>
+
+    <g>
+      <circle cx="45" cy="0" r="6" fill="#3B82F6"/>
+      <circle cx="-45" cy="0" r="6" fill="#34D399"/>
+      <circle cx="0" cy="45" r="6" fill="#3B82F6"/>
+      <circle cx="0" cy="-45" r="6" fill="#34D399"/>
+
+      <line x1="35" y1="35" x2="55" y2="55" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+      <line x1="-35" y1="-35" x2="-55" y2="-55" stroke="#34D399" stroke-width="3" stroke-linecap="round"/>
+      <line x1="-35" y1="35" x2="-55" y2="55" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+      <line x1="35" y1="-35" x2="55" y2="-55" stroke="#34D399" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

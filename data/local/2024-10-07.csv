@@ -1,0 +1,121 @@
+program_name,window_title,timestamp,duration,is_inactive,url
+Code.exe,main-alpha-v0.02.py - FocusTrack - Visual Studio Code,2024-10-04 10:27:36 PM,10,False,
+Code.exe,2024-10-04.csv - FocusTrack - Visual Studio Code,2024-10-04 10:27:46 PM,6,False,
+msedge.exe,ChatGPT V2.0 UW Madison CS 570 (Community) – Figma and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:27:52 PM,6,False,https://www.figma.com/design/ecZIQvNxmacwNh0aKXFwMS/ChatGPT-V2.0-UW-Madison-CS-570-(Community)?node-id=0-1&node-type=canvas&t=GXR8hZ0R1dg3h62Y-0
+msedge.exe,ChatGPT V2.0 UW Madison CS 570 (Community) – Figma and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:27:59 PM,56,True,https://www.figma.com/design/ecZIQvNxmacwNh0aKXFwMS/ChatGPT-V2.0-UW-Madison-CS-570-(Community)?node-id=0-1&node-type=canvas&t=GXR8hZ0R1dg3h62Y-0
+explorer.exe,,2024-10-04 10:28:57 PM,2,False,
+explorer.exe,Task Switching,2024-10-04 10:28:59 PM,2,False,
+brave.exe,New Private Tab - Brave,2024-10-04 10:29:01 PM,2,False,github.com
+brave.exe,GitHub: Let’s build from here · GitHub - Brave,2024-10-04 10:29:04 PM,26,False,github.com
+explorer.exe,Task Switching,2024-10-04 10:29:31 PM,2,False,
+explorer.exe,networking - File Explorer,2024-10-04 10:29:33 PM,4,False,
+explorer.exe,Downloads - File Explorer,2024-10-04 10:29:37 PM,2,False,
+explorer.exe,temp - File Explorer,2024-10-04 10:29:39 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:29:43 PM,14,False,
+explorer.exe,temp - File Explorer,2024-10-04 10:29:57 PM,2,False,
+explorer.exe,MnC-TPC - File Explorer,2024-10-04 10:29:59 PM,4,False,
+Code.exe,MnC-TPC - Visual Studio Code,2024-10-04 10:30:03 PM,2,False,
+Code.exe,app.py - MnC-TPC - Visual Studio Code,2024-10-04 10:30:05 PM,16,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:30:21 PM,10,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:30:31 PM,18,True,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - pip  install .streamlit,2024-10-04 10:30:49 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:30:51 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - pip  install streamlit,2024-10-04 10:30:55 PM,4,False,
+explorer.exe,Task Switching,2024-10-04 10:30:59 PM,2,False,
+Code.exe,app.py - MnC-TPC - Visual Studio Code,2024-10-04 10:31:01 PM,22,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:31:23 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - python  app.py,2024-10-04 10:31:25 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:31:29 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - python  app.py,2024-10-04 10:31:33 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:31:35 PM,10,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:31:46 PM,12,False,
+AvastUI.exe,Avast Free Antivirus,2024-10-04 10:31:58 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:32:00 PM,12,False,
+OpenWith.exe,,2024-10-04 10:32:12 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:32:14 PM,2,False,
+explorer.exe,Task Switching,2024-10-04 10:32:16 PM,2,False,
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:32:18 PM,2,False,http://localhost:8501
+brave.exe,Streamlit - Brave,2024-10-04 10:32:20 PM,2,False,localhost:8501
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:32:22 PM,2,False,http://localhost:8501
+brave.exe,Untitled - Brave,2024-10-04 10:32:25 PM,2,False,github.com/kushalag02
+brave.exe,kushalag02 (kushal Agarwal) · GitHub - Brave,2024-10-04 10:32:27 PM,4,False,github.com/kushalag02
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:32:31 PM,2,False,http://localhost:8501
+brave.exe,Issues · Suryanshj45/MnC-TPC · GitHub - Brave,2024-10-04 10:32:34 PM,10,False,github.com/Suryanshj45/MnC-TPC/issues
+Code.exe,main-alpha-v0.02.py - FocusTrack - Visual Studio Code,2024-10-04 10:27:36 PM,10,False,
+Code.exe,2024-10-04.csv - FocusTrack - Visual Studio Code,2024-10-04 10:27:46 PM,6,False,
+msedge.exe,ChatGPT V2.0 UW Madison CS 570 (Community) – Figma and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:27:52 PM,6,False,https://www.figma.com/design/ecZIQvNxmacwNh0aKXFwMS/ChatGPT-V2.0-UW-Madison-CS-570-(Community)?node-id=0-1&node-type=canvas&t=GXR8hZ0R1dg3h62Y-0
+msedge.exe,ChatGPT V2.0 UW Madison CS 570 (Community) – Figma and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:27:59 PM,56,True,https://www.figma.com/design/ecZIQvNxmacwNh0aKXFwMS/ChatGPT-V2.0-UW-Madison-CS-570-(Community)?node-id=0-1&node-type=canvas&t=GXR8hZ0R1dg3h62Y-0
+explorer.exe,,2024-10-04 10:28:57 PM,2,False,
+explorer.exe,Task Switching,2024-10-04 10:28:59 PM,2,False,
+brave.exe,New Private Tab - Brave,2024-10-04 10:29:01 PM,2,False,github.com
+brave.exe,GitHub: Let’s build from here · GitHub - Brave,2024-10-04 10:29:04 PM,16,False,github.com
+brave.exe,Suryanshj45 (SURYANSH JAISWAL) · GitHub - Brave,2024-10-04 10:29:20 PM,2,False,github.com/Suryanshj45
+brave.exe,Suryanshj45 (Suryanshj45) / Repositories · GitHub - Brave,2024-10-04 10:29:22 PM,4,False,github.com/Suryanshj45?tab=repositories
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:29:27 PM,4,False,github.com/Suryanshj45/MnC-TPC
+explorer.exe,Task Switching,2024-10-04 10:29:31 PM,2,False,
+explorer.exe,networking - File Explorer,2024-10-04 10:29:33 PM,4,False,
+explorer.exe,Downloads - File Explorer,2024-10-04 10:29:37 PM,2,False,
+explorer.exe,temp - File Explorer,2024-10-04 10:29:39 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:29:43 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - git  clone https://github.com/Suryanshj45/MnC-TPC.git,2024-10-04 10:29:47 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:29:49 PM,8,False,
+explorer.exe,temp - File Explorer,2024-10-04 10:29:57 PM,2,False,
+explorer.exe,MnC-TPC - File Explorer,2024-10-04 10:29:59 PM,4,False,
+Code.exe,MnC-TPC - Visual Studio Code,2024-10-04 10:30:03 PM,2,False,
+Code.exe,app.py - MnC-TPC - Visual Studio Code,2024-10-04 10:30:05 PM,16,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:30:21 PM,10,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:30:31 PM,18,True,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - pip  install .streamlit,2024-10-04 10:30:49 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:30:51 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - pip  install streamlit,2024-10-04 10:30:55 PM,4,False,
+explorer.exe,Task Switching,2024-10-04 10:30:59 PM,2,False,
+Code.exe,app.py - MnC-TPC - Visual Studio Code,2024-10-04 10:31:01 PM,22,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:31:23 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - python  app.py,2024-10-04 10:31:25 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:31:29 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - python  app.py,2024-10-04 10:31:33 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:31:35 PM,10,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:31:46 PM,12,False,
+AvastUI.exe,Avast Free Antivirus,2024-10-04 10:31:58 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:32:00 PM,12,False,
+OpenWith.exe,,2024-10-04 10:32:12 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:32:14 PM,2,False,
+explorer.exe,Task Switching,2024-10-04 10:32:16 PM,2,False,
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:32:18 PM,2,False,http://localhost:8501
+brave.exe,Streamlit - Brave,2024-10-04 10:32:20 PM,2,False,localhost:8501
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:32:22 PM,2,False,http://localhost:8501
+brave.exe,Untitled - Brave,2024-10-04 10:32:25 PM,2,False,github.com/kushalag02
+brave.exe,kushalag02 (kushal Agarwal) · GitHub - Brave,2024-10-04 10:32:27 PM,4,False,github.com/kushalag02
+brave.exe,GitHub - Suryanshj45/MnC-TPC - Brave,2024-10-04 10:32:31 PM,2,False,http://localhost:8501
+brave.exe,Issues · Suryanshj45/MnC-TPC · GitHub - Brave,2024-10-04 10:32:34 PM,10,False,github.com/Suryanshj45/MnC-TPC/issues
+brave.exe,Added extra features and dark theme by kushalag02 · Pull Request #1 · Suryanshj45/MnC-TPC · GitHub - Brave,2024-10-04 10:32:44 PM,4,False,github.com/Suryanshj45/MnC-TPC/pull/1
+brave.exe,app - Brave,2024-10-04 10:32:49 PM,46,False,localhost:8501
+brave.exe,Private New Tab - Brave,2024-10-04 10:33:35 PM,2,False,localhost:8501
+brave.exe,app - Brave,2024-10-04 10:33:38 PM,10,False,localhost:8501
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:33:48 PM,2,False,
+explorer.exe,Task Switching,2024-10-04 10:33:50 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:33:52 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:33:54 PM,2,False,
+explorer.exe,Task Switching,2024-10-04 10:33:56 PM,2,False,
+brave.exe,app - Brave,2024-10-04 10:33:58 PM,16,False,localhost:8501
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:34:16 PM,6,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:34:22 PM,6,True,
+brave.exe,app - Brave,2024-10-04 10:34:28 PM,70,False,localhost:8501
+brave.exe,app - Brave,2024-10-04 10:35:39 PM,4,True,localhost:8501
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:35:43 PM,4,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:35:47 PM,2,False,
+Code.exe,app.py - MnC-TPC - Visual Studio Code,2024-10-04 10:35:49 PM,38,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe,2024-10-04 10:36:27 PM,2,False,
+WindowsTerminal.exe,C:\Windows\System32\cmd.exe - streamlit  run app.py,2024-10-04 10:36:29 PM,4,False,
+brave.exe,app - Brave,2024-10-04 10:36:33 PM,10,False,localhost:8501
+brave.exe,app - Brave,2024-10-04 10:36:43 PM,112,True,localhost:8501
+Code.exe,college_company.db - MnC-TPC - Visual Studio Code,2024-10-04 10:38:54 PM,24,True,
+brave.exe,app - Brave,2024-10-04 10:39:18 PM,2,False,localhost:8501
+brave.exe,New Private Tab - Brave,2024-10-04 10:39:21 PM,6,False,
+msedge.exe,ChatGPT V2.0 UW Madison CS 570 (Community) – Figma and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:39:27 PM,2,False,https://web.whatsapp.com
+msedge.exe,WhatsApp and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:39:30 PM,4,False,https://web.whatsapp.com
+msedge.exe,WhatsApp and 44 more pages - Personal - Microsoft​ Edge,2024-10-04 10:39:35 PM,32,True,https://web.whatsapp.com
+explorer.exe,,2024-10-04 10:40:08 PM,2,False,
+brave.exe,(1) WhatsApp - Brave,2024-10-04 10:40:10 PM,2,False,web.whatsapp.com
+brave.exe,WhatsApp Web - Brave,2024-10-04 10:40:14 PM,2,False,web.whatsapp.com
+brave.exe,WhatsApp - Brave,2024-10-04 10:40:18 PM,2,False,web.whatsapp.com

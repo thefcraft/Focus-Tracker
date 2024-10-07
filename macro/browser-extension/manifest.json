@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Active Tab Tracker",
+    "version": "0",
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    }
+}

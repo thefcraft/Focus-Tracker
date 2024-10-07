@@ -1,0 +1,74 @@
+Name,Category Key,Category Name,Source,App Name
+Slack,messaging,Messaging,windows,Slack
+Explorer,utility,Utility,windows,Explorer
+Electron,code,Code,windows,Electron
+VS Debug Console,code,Code,windows,VS Debug Console
+Git Bash,code,Code,windows,Git Bash
+WebStorm,code,Code,windows,WebStorm
+Brave,browsing,Browsing,windows,Brave
+Visual Studio,code,Code,windows,Visual Studio
+RubyMine,code,Code,windows,RubyMine
+OneNote,documenting,Documenting,windows,OneNote
+Rize (Staging),productivity,Productivity,windows,Rize (Staging)
+Rize,productivity,Productivity,windows,Rize
+Search App,utility,Utility,windows,Search App
+Shell Experience Host,utility,Utility,windows,Shell Experience Host
+Firefox,browsing,Browsing,windows,Firefox
+Chrome,browsing,Browsing,windows,Chrome
+Command Line Interpreter,code,Code,windows,Command Line Interpreter
+Powershell,code,Code,windows,Powershell
+Cortana,productivity,Productivity,windows,Cortana
+Accessibility Insights,utility,Utility,windows,Accessibility Insights
+Sublime Text,code,Code,windows,Sublime Text
+Microsoft Screen Magnifier,utility,Utility,windows,Microsoft Screen Magnifier
+Start Menu,utility,Utility,windows,Start Menu
+Edge,browsing,Browsing,windows,Edge
+File Picker UI,utility,Utility,windows,File Picker UI
+Windows Task Manager,utility,Utility,windows,Windows Task Manager
+Screen Sketch,utility,Utility,windows,Screen Sketch
+System Settings,utility,Utility,windows,System Settings
+Excel,documenting,Documenting,windows,Excel
+Discord,messaging,Messaging,windows,Discord
+Telegram,messaging,Messaging,windows,Telegram
+Vivaldi,browsing,Browsing,windows,Vivaldi
+Sidekick,browsing,Browsing,windows,Sidekick
+Outlook,email,Email,windows,Outlook
+Microsoft Word,documenting,Documenting,windows,Microsoft Word
+Powerpoint,documenting,Documenting,windows,Powerpoint
+Picasa,design,Design,windows,Picasa
+Photoshop,design,Design,windows,Photoshop
+Visual Studio Code,code,Code,windows,Visual Studio Code
+Zoom,video_conferencing,Video Conferencing,windows,Zoom
+Opera,browsing,Browsing,windows,Opera
+WhatsApp,messaging,Messaging,windows,WhatsApp
+Teams,messaging,Messaging,windows,Teams
+Illustrator,design,Design,windows,Illustrator
+Obsidian,writing,Writing,windows,Obsidian
+AutoCAD,code,Code,windows,AutoCAD
+Wavebox,browsing,Browsing,windows,Wavebox
+SketchUp,design,Design,windows,SketchUp
+Camtasia Studio,video_editing,Video Editing,windows,Camtasia Studio
+Notepad,writing,Writing,windows,Notepad
+Mailbird,email,Email,windows,Mailbird
+Notion,documenting,Documenting,windows,Notion
+Mattermost,task_management,Task Management,windows,Mattermost
+Postbox,email,Email,windows,Postbox
+Adobe Premiere Pro,video_editing,Video Editing,windows,Adobe Premiere Pro
+Adobe Acrobat,documenting,Documenting,windows,Adobe Acrobat
+TradingView,finance,Finance,windows,TradingView
+JetBrains Rider,code,Code,windows,JetBrains Rider
+Spotify,personal,Personal,windows,Spotify
+ClickUp,task_management,Task Management,windows,ClickUp
+Notepad++,writing,Writing,windows,Notepad++
+IntelliJ IDEA,code,Code,windows,IntelliJ IDEA
+Netflix,personal,Personal,windows,Netflix
+OneDrive,documenting,Documenting,windows,OneDrive
+Creative Cloud,documenting,Documenting,windows,Creative Cloud
+MS Info,utility,Utility,windows,MS Info
+Microsoft Windows Based Script Host,do_not_track,Do Not Track,windows,Microsoft Windows Based Script Host
+Windows Installer Command Line,do_not_track,Do Not Track,windows,Windows Installer Command Line
+Windows Defender Application,do_not_track,Do Not Track,windows,Windows Defender Application
+Windows Security notification icon,do_not_track,Do Not Track,windows,Windows Security notification icon
+Lock Screen,do_not_track,Do Not Track,windows,Lock Screen
+Microsoft Management Console,do_not_track,Do Not Track,windows,Microsoft Management Console
+Application Frame Host,do_not_track,Do Not Track,windows,Application Frame Host

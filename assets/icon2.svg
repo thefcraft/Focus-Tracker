@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <!-- Timer face gradient -->
+    <linearGradient id="timerFaceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
+    
+    <!-- Progress ring gradient -->
+    <linearGradient id="progressGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g transform="translate(100, 100)">
+    <!-- Main timer face -->
+    <circle cx="0" cy="0" r="80" fill="url(#timerFaceGradient)" filter="url(#glow)"/>
+
+    <!-- Progress ring representing tracking -->
+    <circle cx="0" cy="0" r="70" 
+            fill="none" 
+            stroke="url(#progressGradient)" 
+            stroke-width="8"
+            stroke-linecap="round"
+            stroke-dasharray="300 440"/>
+
+    <!-- Center mechanism -->
+    <circle cx="0" cy="0" r="15" fill="#2563EB" filter="url(#glow)"/>
+
+    <!-- Timer hands -->
+    <g>
+      <line x1="0" y1="0" x2="0" y2="-40" 
+            stroke="#1E40AF" 
+            stroke-width="6" 
+            stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="30" y2="0" 
+            stroke="#1E40AF" 
+            stroke-width="4" 
+            stroke-linecap="round"/>
+    </g>
+
+    <!-- Task indicators (representing productivity) -->
+    <g>
+      <circle cx="40" cy="0" r="6" fill="#34D399" filter="url(#glow)"/>
+      <circle cx="-40" cy="0" r="6" fill="#F59E0B" filter="url(#glow)"/>
+      <circle cx="0" cy="40" r="6" fill="#EC4899" filter="url(#glow)"/>
+    </g>
+
+    <!-- Focus Mode icon -->
+    <g>
+      <path d="M 0 -50 L 10 -60 L -10 -60 Z" fill="#3B82F6"/>
+    </g>
+  </g>
+</svg>

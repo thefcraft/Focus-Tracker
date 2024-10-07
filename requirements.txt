@@ -1,0 +1,5 @@
+plyer
+pywin32
+# win32gui pywin32
+# win32process
+# psutil

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html, body{
+            height: 100%;
+        }
+        body{
+            display: flex; 
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        body a {
+            border: 1px solid black;
+            width: min-content;
+            padding: 4px 4px;
+            margin: 2px 2px;
+            background-color: aquamarine;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        body a:hover{
+            background-color: aqua;
+        }
+        body>div{
+            display: flex;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <a href="pages/index.html">pages/index</a>
+        <a href="pages/app.html">pages/app</a>
+    </div>
+</body>
+</html>
